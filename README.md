@@ -1,5 +1,6 @@
-## Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/f31ddf81-06b0-4c96-8e95-4123f53b2fe2.svg)](https://wakatime.com/@Leeviz3680)
+[![github](https://img.shields.io/github/followers/leeviz3680?logo=github&style=plastic)](https://github.com/leeviz3680?tab=followers)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/leevi-peuralahti/)
 <!--
 **Leeviz3680/Leeviz3680** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
